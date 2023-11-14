@@ -22,6 +22,9 @@ p {
     padding: 10px 0px;
 }
 
+.clr {
+    clear: both;
+}
 .container {
     margin: auto;
     max-width: 1100px;
@@ -164,4 +167,11 @@ p {
 
 .box i {
     margin-bottom: 10px;
+}
+
+#main-footer {
+    text-align: center;
+    background: #444;
+    color: white;
+    padding: 20px;
 }
